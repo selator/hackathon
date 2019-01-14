@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm organising a vegan themed [hackathon](https://hackathon.guide/) in Budapest, preferably in April-May of 2019. This would be a one or two-day event, where participants will work on a project in small groups, then demo their progress at the end. Also expect lots of vegan food, coffee and an afterparty.
+I'm organising a vegan themed hackathon<sup>[\[?\]](https://hackathon.guide/)</sup> in Budapest, preferably in April-May of 2019. This would be a one or two-day event, where participants will work on a project in small groups, then demo their progress at the end. Also expect lots of vegan food, coffee and an afterparty.
 
 You can participate as a software developer, UX designer, graphic designer, system engineer, product manager, geographer or vegan know-it-all.
 

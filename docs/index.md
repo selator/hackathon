@@ -4,4 +4,4 @@
 
 layout: default
 ---
-Welcome to the vegan hackathon site, there are currently no posts, see the [About](/about) section for details.
+Welcome to the vegan hackathon site, there are currently no posts, see the [About](/hackathon/about) section for details.
