@@ -11,3 +11,5 @@ You can participate as an organiser, a software developer, UX designer, graphic 
 I'm also looking for animal rights or vegan advocacy organisations who have specific software needs, be it a website or a mobile app, so we will have project ideas for what to work on during the hackathon.
 
 The project is in its very early stages, so I'm open to ideas on how to make it a successful event.
+
+You can contact me via [email](mailto:krisztian.toth@maveg.hu) or [facebook](https://www.facebook.com/Vegan-Hackathon-768963906794794/).
