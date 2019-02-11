@@ -12,4 +12,4 @@ I'm also looking for animal rights or vegan advocacy organisations who have spec
 
 The project is in its very early stages, so I'm open to ideas on how to make it a successful event.
 
-You can contact me via [email](mailto:krisztian.toth@maveg.hu) or [facebook](https://www.facebook.com/Vegan-Hackathon-768963906794794/).
+You can contact me via [email](mailto:krisztian.toth@maveg.hu) or [facebook](https://www.facebook.com/vegan.hackathon/).
