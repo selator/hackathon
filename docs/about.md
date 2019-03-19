@@ -14,4 +14,4 @@ The project is in its very early stages, so I'm open to ideas on how to make it 
 
 Check out the event on [facebook](https://www.facebook.com/events/517211538807284/) and [eventbrite](https://www.eventbrite.com/e/vegan-hackathon-budapest-tickets-57830983027).
 
-You can contact me via [email](mailto:krisztian.toth@maveg.hu) or [facebook](https://www.facebook.com/vegan.hackathon/).
+You can contact me via [email](mailto:krisztian.toth@maveg.hu) or [facebook](https://www.facebook.com/vegan.hackathon/) and donate to the project on [paypal](https://www.paypal.me/veganhackathon).
