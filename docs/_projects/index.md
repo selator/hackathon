@@ -8,8 +8,7 @@ permalink: /projects/
 * [Vegan mentor search](/hackathon/projects/mentors/)
 * [Membership app for MAVEG](/hackathon/projects/maveg/)
 * Vegan professionals directory
-* "Olts le egy vegánt"
 * Vegan product directory
-* "Főzök neked"
-* Vegan quotes "quiz"
-* Hamburger builder
+* [Meal Deal](/hackathon/projects/mealdeal)
+* [Vegan quotes "quiz"](/hackathon/projects/quotes/)
+* [Hamburger builder](/hackathon/projects/hamburger/)
