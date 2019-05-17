@@ -5,18 +5,14 @@ permalink: /projects/quotes/
 ---
 (May contain sarcasm)
 
-The point is to give vegans a platform where they can invite non-vegans to have
-an encounter of the 5th kind. Humans will receive a vegan meal to try and digest.
-
-If their primitive earthly bodies approve of the vegan nourishment -- I hope
-everyone is getting it by now, that Vega is actually a star -- they will live to
-have a chance to share their (hopefully positive) experience on Facebook. How?
-Glad you asked!
-
-The user feedback page is generated per meal, for the user who is providing the
-feedback -- get it? FEEDback --  and the user can share this page on his page.
-
-But why is this good for the vegans? The user must select a partner NGO they would
-recommend their friends to donate to, effectively advertising the NGO.
+Each day, a moving quote is displayed to the visitor -- a quote from a well known
+celebrity, who is, by sheer coincidence, actually a vegan. The user has to guess
+who is the source of the quote. The letters in the names will be shuffled randomly,
+so as to make it a bit more fun (No.). Whether the user is correct or not, we
+don't care. The important part is, that after the answer is shown, we display a
+short info page of the celebrity, highlighting the most important fact (which we
+all know what it is) accompanied by a veganism related quote and thank the
+user for the participation AND ask if we can grant him a discount coupon at one
+of our partners. If the answer if yes, he can download a generated coupon.
 
 Magyar leírás hamarosan...
