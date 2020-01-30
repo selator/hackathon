@@ -1,7 +1,7 @@
 title: Vegan hackathon
 email: krisztian.toth@maveg.hu
 description: >- # this means to ignore newlines until "baseurl:"
-  Vegan hackathon in Budapest.
+  Vegan hackathon in Central Europe
 baseurl: "/hackathon" # the subpath of your site, e.g. /blog
 url: "https://selator.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: selator
