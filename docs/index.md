@@ -4,4 +4,11 @@
 
 layout: default
 ---
-Welcome to the vegan hackathon site, there are currently no posts, see the [About](/hackathon/about) section for details.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
