@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hackathon date poll"
+title:  "Hackathon time poll"
 author: "Krisztián"
 ---
 

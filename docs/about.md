@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm organising a vegan themed hackathon<sup>[\[?\]](https://hackathon.guide/)</sup> online on the weekend of 15-16th May 2021 (exact timing TBD).
+I'm organising a vegan themed hackathon<sup>[\[?\]](https://hackathon.guide/)</sup> online on the weekend of 15-16th May 2021. The facebook event can be found [here](https://www.facebook.com/events/796752977876339/).
 
 You can participate as an organiser, a software developer, UX designer, graphic designer, system engineer, product manager, geographer or vegan know-it-all.
 
